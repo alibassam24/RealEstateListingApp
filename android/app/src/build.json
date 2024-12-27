@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581229071148",
+    "project_id": "real-estate-app-1684f",
+    "storage_bucket": "real-estate-app-1684f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581229071148:android:ac09588031fe1560337a89",
+        "android_client_info": {
+          "package_name": "com.ali.realestateapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-xqrKbd7WH9fPzDt0nGIf9HCEh0xKWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
